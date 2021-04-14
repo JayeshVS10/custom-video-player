@@ -1,8 +1,8 @@
-## Custom Video Player
+# Custom Video Player
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
-## Project Specifications
+# Project Specifications
 
 - Display custom video player styled with CSS
 - Play/pause
@@ -10,3 +10,5 @@ Custom video player using the HTML5 video element and it's JavaScript API with a
 - Video progress bar
 - Set progress bar time
 - Display time in mins and seconds
+
+Check it out at https://jayeshvs10.github.io/custom-video-player/
